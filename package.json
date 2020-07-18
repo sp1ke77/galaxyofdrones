@@ -13,7 +13,7 @@
     "axios": "^0.18",
     "bootstrap-sass": "^3.3",
     "cross-env": "^5.2",
-    "jquery": "^3.3",
+    "jquery": "^3.5",
     "laravel-echo": "^1.5",
     "laravel-mix": "^4.0",
     "leaflet": "^1.4",
